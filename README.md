@@ -6,3 +6,5 @@ The Transformer-based neural network used in this repository was developed using
 * Visualization of the sigmoid values, both predicted and actual.
 * Evaluation of model performance and training loss.
 
+# Dataset
+The dataset used in this project is https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set. It provides comprehensive time-series data that can be utilized for modeling and prediction tasks
