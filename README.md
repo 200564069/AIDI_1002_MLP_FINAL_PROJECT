@@ -1,1 +1,2 @@
-# AIDI_1002_MLP_FINAL_PROJECT
+# Transformer-Based Sigmoid Approximation 
+
